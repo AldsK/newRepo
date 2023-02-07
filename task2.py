@@ -1,2 +1,1 @@
-also - также
-print('hello world')
+gg
